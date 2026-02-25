@@ -1,0 +1,15 @@
+        body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.star {
+    font-size: 40px;
+    cursor: pointer;
+    color: lightgray;
+}
+
+.star.active {
+    color: gold;
+}
